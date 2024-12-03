@@ -25,38 +25,44 @@ Azure is highly sought-after in IT roles, providing capabilities to create Virtu
 
 1. Open a browser and go to [Azure's official website](https://azure.microsoft.com/en-us/). Click **"Get Started with Azure."**
 
-<img src="https://i.imgur.com/QhdfECC.png" height="70%" width="70%" alt="Azure Home Page"/>
+<p align="center">
+<img src="https://i.imgur.com/QhdfECC.png" height="80%" width="80%" alt="Azure Home Page"/>
 <br />
 <br />
 
 2. Click on **"Try Azure for free."**
 
-<img src="https://i.imgur.com/sRN7oCP.png" height="70%" width="70%" alt="Try Azure for Free"/>
+<p align="center">
+<img src="https://i.imgur.com/sRN7oCP.png" height="80%" width="80%" alt="Try Azure for Free"/>
 <br />
 <br />
 
 3. You will be redirected to a page where you can either log in or create a Microsoft account.
 
-<img src="https://i.imgur.com/RFrMxry.png" height="70%" width="70%" alt="Login or Create an Account"/>
+<p align="center">
+<img src="https://i.imgur.com/RFrMxry.png" height="80%" width="80%" alt="Login or Create an Account"/>
 <br />
 <br />
 
 4. After logging in or creating your account, you will be directed to another page (as shown below). You may need to provide credit card details to complete the sign-up process. Once done, your free trial will be activated.
 
-<img src="https://i.imgur.com/xpHzi8y.png" height="70%" width="70%" alt="Credit Card Information Page"/>
+<p align="center">
+<img src="https://i.imgur.com/xpHzi8y.png" height="80%" width="80%" alt="Credit Card Information Page"/>
 <br />
 <br />
 
 5. After completing the setup, you will be redirected to the Azure Portal, which looks like this:
 
-<img src="https://i.imgur.com/UHoBxhL.png" height="70%" width="70%" alt="Azure Portal"/>
+<p align="center">
+<img src="https://i.imgur.com/UHoBxhL.png" height="80%" width="80%" alt="Azure Portal"/>
 <br />
 <br />
 
 <h2>Things to Consider</h2>
 When signing up for Azure, you will receive a 30-day free trial with $200 in credit. The tutorials on this GitHub repository are designed to minimize credit usage, provided you do not create multiple virtual machines or leave them running for extended periods.
 
-<img src="https://i.imgur.com/V879fxh.png" height="70%" width="70%" alt="Azure Free Trial"/>
+<p align="center">
+<img src="https://i.imgur.com/V879fxh.png" height="80%" width="80%" alt="Azure Free Trial"/>
 <br />
 <br />
 </p>

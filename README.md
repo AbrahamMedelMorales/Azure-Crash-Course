@@ -18,6 +18,8 @@ Azure is Microsoft's cloud computing platform, offering a range of tools to help
 Azure is highly sought-after in IT roles, providing capabilities to create Virtual Machines, store data, manage databases, and support business growth.
 
 <h2>Tools Needed for Azure</h2>
+
+
 - A computer with an internet connection  
 - A credit card (you will receive free credits upon signing up)
 

@@ -3,7 +3,7 @@
 <br />
 <br />
 
-<h1>Azure Crash Course</h1>
+<h1>Settig up Azure</h1>
 
 <h2>Description</h2>
 This tutorial goes over what Azure is and how to set it up to establish Virtual Machines that will be used in other tutorials. 
